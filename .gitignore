@@ -1,0 +1,51 @@
+# ===== 游戏资源/版权文件: 永不提交 =====
+*.xapk
+*.apk
+*.obb
+lifeafter/
+unpacked/
+textures_png/
+blender_out/
+acl_test/
+sample/
+
+# ===== 第三方克隆仓库(各自有独立仓库) =====
+NeoXtractor/
+NeoXtractor-main/
+NeteaseUnpackTools/
+NeoXResearch/
+unnpk/
+LA.NPK.Tool/
+frxy-neox-blender/
+frxy-skin-tools-main/
+nxmain_fork/
+addon_action/
+addon_src/
+addon_lafd/
+
+# ===== 下载的压缩包/二进制 =====
+*.zip
+*.whl
+*.exe
+npkx.zip
+skin_tools.zip
+nxmain.zip
+geluo.zip
+unicorn.whl
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== Blender 临时 =====
+*.blend1
+*.blend2
+
+# ===== 调试/临时日志 =====
+*.log
+retarget_log.txt
+rest_log.txt
+validate_log.txt
+vj.txt
+/tmp/
